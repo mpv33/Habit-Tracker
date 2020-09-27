@@ -3,10 +3,13 @@
 <h3> How to run the Website ?</h3>
 <p>Either clone the repository and run or use above Link</p>
  open cmd with folder :----------------
- nodemon start index.js
+ nodemon start index.js------------------
  open browser : --------------------
  localhost:8000
 <hr>
+<h3> How to Add  your  own mongodb ?</h3>
+Go on : confihg folder 
+ mongodb+srv://username:<password>@cluster0.8jpev.mongodb.net/<dbname>?retryWrites=true&w=majority
 <h2> Brief Intro about the Website</h2>
 <p>
 LoopBit is a habit tracker website made using <b>NodeJS</b>, <b>MongoDB</b> and vanilla <b>JavaScript.</b><br> Here you can keep a record of your day to day habits.You can create a habit and check you record for past few days.<br>
