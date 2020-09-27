@@ -1,6 +1,25 @@
 <h1>Habit Tracker</h1>
 <hr>
 <h3> How to run the Website ?</h3>
+### Version: 2.0.0
+
+### Usage
+
+```sh
+$ npm install
+```
+
+```sh
+$ npm start
+# Or run with Nodemon
+$ npm run dev
+
+# Visit http://localhost:8000
+```
+
+### MongoDB
+
+Open "config/keys.js" and add your MongoDB URI, local or Atlas
 <p>Either clone the repository and run or use above Link</p>
  open cmd with folder :----------------
  nodemon start index.js------------------
