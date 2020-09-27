@@ -9,7 +9,7 @@
 <hr>
 <h3> How to Add  your  own mongodb ?</h3>
 Go on -> config folder ->  
- mongodb+srv://username:<password>@cluster0.8jpev.mongodb.net/<dbname>?retryWrites=true&w=majority
+mongoose.connect('mongodb+srv://<username>:<password>@cluster0.8jpev.mongodb.net/<dbname>?retryWrites=true&w=majority');
 <h2> Brief Intro about the Website</h2>
 <p>
 LoopBit is a habit tracker website made using <b>NodeJS</b>, <b>MongoDB</b> and vanilla <b>JavaScript.</b><br> Here you can keep a record of your day to day habits.You can create a habit and check you record for past few days.<br>
