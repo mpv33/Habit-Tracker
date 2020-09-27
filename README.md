@@ -19,7 +19,7 @@ $ npm run dev
 
 ### MongoDB
 
-Open "config/keys.js" and add your MongoDB URI, local or Atlas
+Open "config/" and add your MongoDB URI, local or Atlas
 <p>Either clone the repository and run or use above Link</p>
  open cmd with folder :----------------
  nodemon start index.js------------------
