@@ -1,4 +1,4 @@
-<h1>LoopBit</h1>
+<h1>Habit Tracker</h1>
 <hr>
 <h3> How to run the Website ?</h3>
 <p>Either clone the repository and run or use above Link</p>
