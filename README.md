@@ -8,7 +8,7 @@
  localhost:8000
 <hr>
 <h3> How to Add  your  own mongodb ?</h3>
-Go on : confihg folder 
+Go on -> config folder ->  
  mongodb+srv://username:<password>@cluster0.8jpev.mongodb.net/<dbname>?retryWrites=true&w=majority
 <h2> Brief Intro about the Website</h2>
 <p>
