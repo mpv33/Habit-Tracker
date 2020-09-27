@@ -2,6 +2,8 @@
 <hr>
 <h3> How to run the Website ?</h3>
 <p>Either clone the repository and run or use above Link</p>
+ open cmd with folder : nodemon start index.js
+ open browser : localhost:8000
 <hr>
 <h2> Brief Intro about the Website</h2>
 <p>
