@@ -1,4 +1,4 @@
-<h1>Habit Tracker</h1>
+<h1>Habit Tracker Pro</h1>
 <hr>
 <h3> How to run the Website ?</h3>
 ### Version: 2.0.0
